@@ -7,7 +7,7 @@
 Este repositorio contiene la solución a los ejercicios prácticos de la evaluación técnica.
 
 ## Enlaces importantes
-- **Tablero Jira (Caso 2C):** [ENLACE_PENDIENTE_DE_JIRA]
+- **Tablero Jira (Caso 2C):** [https://anepsa-eval-yoshimar.atlassian.net/jira/software/projects/SCRUM/boards/1]
 
 ## ¿Cómo ejecutar el proyecto localmente? (Caso 8.3)
 
