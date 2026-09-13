@@ -1,0 +1,137 @@
+[
+    {
+        "id": "DEV-101",
+        "title": "Configurar BD",
+        "assignee": "Ana",
+        "status": "Done",
+        "story_points": 5,
+        "due_date": "2026-09-12",
+        "last_updated": "2026-09-11"
+    },
+    {
+        "id": "DEV-102",
+        "title": "Crear repo",
+        "assignee": "Carlos",
+        "status": "Done",
+        "story_points": 3,
+        "due_date": "2026-09-11",
+        "last_updated": "2026-09-11"
+    },
+    {
+        "id": "DEV-103",
+        "title": "Setup CI/CD",
+        "assignee": "Beatriz",
+        "status": "Done",
+        "story_points": 8,
+        "due_date": "2026-09-14",
+        "last_updated": "2026-09-12"
+    },
+    {
+        "id": "DEV-104",
+        "title": "Migrar usuarios",
+        "assignee": "Ana",
+        "status": "Done",
+        "story_points": 5,
+        "due_date": "2026-09-13",
+        "last_updated": "2026-09-12"
+    },
+    {
+        "id": "DEV-105",
+        "title": "API de pagos",
+        "assignee": "Carlos",
+        "status": "In Progress",
+        "story_points": 8,
+        "due_date": "2026-09-16",
+        "last_updated": "2026-09-12"
+    },
+    {
+        "id": "DEV-106",
+        "title": "Frontend Login",
+        "assignee": "Ana",
+        "status": "In Progress",
+        "story_points": 5,
+        "due_date": "2026-09-15",
+        "last_updated": "2026-09-13"
+    },
+    {
+        "id": "DEV-107",
+        "title": "Fix bug crítico",
+        "assignee": "Beatriz",
+        "status": "In Progress",
+        "story_points": 3,
+        "due_date": "2026-09-12",
+        "last_updated": "2026-09-12"
+    },
+    {
+        "id": "DEV-108",
+        "title": "Actualizar Nginx",
+        "assignee": "Carlos",
+        "status": "To Do",
+        "story_points": 5,
+        "due_date": "2026-09-11",
+        "last_updated": "2026-09-09"
+    },
+    {
+        "id": "DEV-109",
+        "title": "Documentación API",
+        "assignee": "Ana",
+        "status": "In Progress",
+        "story_points": 3,
+        "due_date": "2026-09-18",
+        "last_updated": "2026-09-09"
+    },
+    {
+        "id": "DEV-110",
+        "title": "Revisar logs",
+        "assignee": "Beatriz",
+        "status": "To Do",
+        "story_points": 2,
+        "due_date": "2026-09-17",
+        "last_updated": "2026-09-08"
+    },
+    {
+        "id": "DEV-111",
+        "title": "Testing E2E",
+        "assignee": "Carlos",
+        "status": "To Do",
+        "story_points": 5,
+        "due_date": "2026-09-19",
+        "last_updated": "2026-09-12"
+    },
+    {
+        "id": "DEV-112",
+        "title": "Refactor Auth",
+        "assignee": "Ana",
+        "status": "To Do",
+        "story_points": 8,
+        "due_date": "2026-09-20",
+        "last_updated": "2026-09-11"
+    },
+    {
+        "id": "DEV-113",
+        "title": "Diseño Base Datos",
+        "assignee": "Beatriz",
+        "status": "To Do",
+        "story_points": 5,
+        "due_date": "2026-09-18",
+        "last_updated": "2026-09-12"
+    },
+    {
+        "id": "DEV-114",
+        "title": "Implementar caché",
+        "assignee": "Carlos",
+        "status": "To Do",
+        "story_points": 5,
+        "due_date": "2026-09-21",
+        "last_updated": "2026-09-12"
+    },
+    {
+        "id": "DEV-115",
+        "title": "Auditoría SEO",
+        "assignee": "Beatriz",
+        "status": "To Do",
+        "story_points": 3,
+        "due_date": "2026-09-17",
+        "last_updated": "2026-09-11"
+    }
+]
